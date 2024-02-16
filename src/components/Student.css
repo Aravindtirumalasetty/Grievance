@@ -1,0 +1,24 @@
+.student {
+  display: flex;
+  justify-content: center;
+  border: 1px solid black;
+  height: 100vh;
+  width: 100%;
+  padding: 0.5rem;
+}
+.sidebar {
+  width: 20%;
+  border: 1px solid black;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+.student-form {
+  border: 1px solid black;
+  width: 80%;
+  height: 100vh;
+  padding: 1rem;
+}
+.formheader {
+  text-align: center;
+}
